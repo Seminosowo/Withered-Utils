@@ -1,4 +1,4 @@
-Welcome to Withered Utils github! Here, you can request suggestions and issues or just check out the full mod list, resource pack list, and keybinds.
+Welcome to Withered Utils Github! Here, you can request suggestions and issues or just check out the full mod list, resource pack list, and keybinds.
 
 Table of contents:
 

@@ -1,4 +1,4 @@
-:wilted_rose: Withered Utils
+🥀 Withered Utils
 
 A clean, fast, and reliable Minecraft utility & optimization modpack.
 

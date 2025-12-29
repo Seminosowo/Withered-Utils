@@ -10,5 +10,5 @@ Want more? Check out our forks!
 
 | Fork            | Description | Link |
 |-----------------|-------------|------|
-| Withered Client offers even more utility modules with Meteor Client and Meteor add-ons!Other Mods like Xaero Plus and Litematica printer are included too| Soon |
+| Withered Client |offers even more utility modules with Meteor Client and Meteor add-ons!Other Mods like Xaero Plus and Litematica printer are included too| Soon 
 | Withered Multicolor | Adds many more resource packs related mods (ex. Polytone) | Soon |

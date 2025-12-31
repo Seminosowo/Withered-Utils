@@ -1,12 +1,12 @@
 # Withered Utils
 Welcome to Withered Utils Github! Here, you can request suggestions and issues or just check out the full mod list, resource pack list, and keybinds.
 
-# Table of contents:
+# Table of contents
 
 1. Mod List
 2. Resources Pack List
 3. [Keybinds List](https://github.com/Seminosowo/Withered-Utils/blob/641b4675f1cfd68d10034e52667dd2a1840978d1/keybinds.md)
-4. Modpack Icon
+4. [Modpack Icon](https://github.com/Seminosowo/Withered-Utils/blob/3eea1ab21ee93642856611c7c4b5af8bcf184258/Modpack%20Icon.png)
 
 # Want more? Check out our forks!
 

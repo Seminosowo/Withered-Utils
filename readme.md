@@ -5,7 +5,8 @@ Welcome to Withered Utils Github! Here, you can request suggestions and issues o
 
 1. Mod List
 2. Resources Pack List
-3. Keybinds List
+3. [Keybinds List](https://github.com/Seminosowo/Withered-Utils/blob/641b4675f1cfd68d10034e52667dd2a1840978d1/keybinds.md)
+4. Modpack Icon
 
 # Want more? Check out our forks!
 

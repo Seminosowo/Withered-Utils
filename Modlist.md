@@ -25,7 +25,8 @@
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | Allows you to play on any minecraft server regardless of its supported versions. |
 | [Vanilla Keybind Manager](https://modrinth.com/mod/vkm) | Adds a tab in malilib for all malilib and vanilla keybinds. |
 | [WorldEdit](https://modrinth.com/plugin/worldedit) | In-Game map editor. |
-| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | Adds a full screen map that shows you waypoints and what you explored! |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | Displays a minimap with entity radar and waypoints. **THIS MOD MIGHT GET YOU BANNED FROM SERVERS!!!**
+| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | Adds a full screen map that shows you waypoints and what you explored! **THIS MOD MIGHT GET YOU BANNED FROM SERVERS!!!** |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Allows you to infinitely zoom. |
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | Improves the advancements screen |
 | [Better Statistics Screen](https://modrinth.com/mod/better-stats) | Improves the statistics screen |
@@ -35,7 +36,16 @@
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Various offhand tweaks. |
 | [Durability Tooltip](https://modrinth.com/mod/durability-tooltip) | Shows the durability of gear in the item tooltips. |
 | [Carpet](https://modrinth.com/mod/carpet) | Various QOL Features. |
-
+| [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone) | Shows hunger bar and experience bar when mounted. |
+| [Litematica](https://modrinth.com/mod/litematica) | In-Game Schematic Manager. |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | Shows your mods and allows you to configure them In-Game. |
+| [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | Various Mouse Shortcut Tweaks. |
+| [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Prevents the game from closing after a crash. |
+| [Peek](https://modrinth.com/mod/peek) | Shows contents of containers in inventory and coords of maps and compasses. |
+| [Redstone Sound Slider](https://modrinth.com/mod/redstone-sound-slider) | Adds a redstone volume bar in Audio Settings. |
+| [Simple Armor Hud](https://modrinth.com/mod/simple-armor-hud) | Replaces hud armor bars with your armor slots. |
+| [Stfu](https://modrinth.com/mod/shuttfup) | Fixes some annoyances. |
+| [VisualKeys](https://modrinth.com/mod/visualkeys) | Adds a gui to shows you what key is bound to what. |
 
 # Fixes
 

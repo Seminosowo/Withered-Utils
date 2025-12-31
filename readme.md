@@ -12,7 +12,7 @@ Welcome to Withered Utils Github! Here, you can request suggestions and issues o
 | Fork            | Description | Link |
 |-----------------|-------------|------|
 | Withered Client |Offers even more utility modules with Meteor Client and Meteor addons for Anarchy servers! Other mods like Xaero Plus and Litematica printer are included too|[Link](https://github.com/Seminosowo/Withered-Client)
-| Withered Multicolor | Adds support for advanced resource packs that require mods (e.g., Polytone, Entity Model Features (EMF), Entity Textures Features (ETF). | [Link](https://github.com/timetobrawl/Withered-MultiColor) |
+| Withered Multicolor | Adds support for advanced resource packs that require mods (e.g., Polytone, Entity Model Features (EMF), Entity Textures Features (ETF).) | [Link](https://github.com/timetobrawl/Withered-MultiColor) |
 
 # FAQ
 

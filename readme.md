@@ -8,6 +8,8 @@ Welcome to Withered Utils Github! Here, you can request suggestions and issues o
 3. [Keybinds List](https://github.com/Seminosowo/Withered-Utils/blob/641b4675f1cfd68d10034e52667dd2a1840978d1/keybinds.md)
 4. [Modpack Icon](https://github.com/Seminosowo/Withered-Utils/blob/3eea1ab21ee93642856611c7c4b5af8bcf184258/Modpack%20Icon.png)
 
+**This is for 1.21.10! for other versions select the correct repo branch!**
+
 # Want more? Check out our forks!
 
 | Fork            | Description | Link |

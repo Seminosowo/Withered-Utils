@@ -3,7 +3,10 @@
 | Mod | Description |
 |-----|--------------|
 | [Sodium](https://modrinth.com/mod/sodium) | Optimizes minecraft's render. |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Adds more settings to Sodium. |
 | [Immediately Fast](https://modrinth.com/mod/immediatelyfast) | Speeds up immediate mode rendering. |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | Stops none visible entities from being rendered. |
+| [More Culling](https://modrinth.com/mod/moreculling) | Hides none visible blocks from being rendered. |
 | [Better Block Entities](https://modrinth.com/mod/better-block-entities) | Optimizes chests, shulkers, beds and other block entities. |
 | [Bad Optimizations](https://modrinth.com/mod/badoptimizations) | Focuses on optimizing other things than the render. |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory Usage Optimizations. |
@@ -46,12 +49,19 @@
 | [Simple Armor Hud](https://modrinth.com/mod/simple-armor-hud) | Replaces hud armor bars with your armor slots. |
 | [Stfu](https://modrinth.com/mod/shuttfup) | Fixes some annoyances. |
 | [VisualKeys](https://modrinth.com/mod/visualkeys) | Adds a gui to shows you what key is bound to what. |
+| [Appleskin](https://modrinth.com/mod/appleskin) | Food related hud improvements. |
+| [BoatView360](https://modrinth.com/mod/boatview360) | Removes the rotation limit on boat passengers. |
+| [Borderless Fullscreen](https://modrinth.com/mod/borderless-fullscreen) | Replaces Minecraft's fullscreen mode with a more customizable one. |
+| [Don't Hide My Items](https://modrinth.com/mod/dont-hide-my-items) | Removes the bundle's gui item limit. |
+| [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights) | Adds Dynamic Lights. |
+| [MiniHUD](https://modrinth.com/mod/minihud) | Various Hud Tweaks. |
 
 # Fixes
 
 | Mod | Description |
 |-----|--------------|
 | [Packet Fixer](https://modrinth.com/mod/packet-fixer) | Fixes various problems with packets. |
+| [Podium](https://modrinth.com/mod/podium) | Disable Sodium's mobile intentional crash. |
 
 # Pretty
 

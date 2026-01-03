@@ -10,7 +10,7 @@
 | [More Culling](https://modrinth.com/mod/moreculling) | Hides none visible blocks from being rendered. | ✔️ |
 | [Better Block Entities](https://modrinth.com/mod/better-block-entities) | Optimizes chests, shulkers, beds and other block entities. | ✔️ |
 | [Bad Optimizations](https://modrinth.com/mod/badoptimizations) | Focuses on optimizing other things than the render. | ✔️ |
-|h| [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory Usage Optimizations. | ✔️ |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory Usage Optimizations. | ✔️ |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Lowers FPS when the window is unfocused, idle or charging. | ✔️ |
 | [GPUBooster](https://modrinth.com/mod/gputape) | Optimizes Rendering. | ❌️ |
 | [Lithium](https://modrinth.com/mod/lithium) | Single player optimization mod that optimizes game physics, mob AI, block ticking, etc. | ✔️ |

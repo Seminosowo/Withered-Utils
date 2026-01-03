@@ -15,7 +15,7 @@
 | [GPUBooster](https://modrinth.com/mod/gputape) | Optimizes Rendering. | ❌️ |
 | [Lithium](https://modrinth.com/mod/lithium) | Single player optimization mod that optimizes game physics, mob AI, block ticking, etc. | ✔️ |
 | [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) | Single player optimization mod that optimizes chunk loading by utilizing multiple cpu cores in parallel. | ✔️ |
-| [krypton](https://modrinth.com/mod/krypton) | Optimizes Networking Stack. | ❌️ |
+| [krypton](https://modrinth.com/mod/krypton) | Optimizes Networking Stack. | ✔️ |
 
 # QOL
 
@@ -31,7 +31,7 @@
 | [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) | Allows you to play on any minecraft server regardless of its supported versions. | ✔️ |
 | [Vanilla Keybind Manager](https://modrinth.com/mod/vkm) | Adds a tab in malilib for all malilib and vanilla keybinds. | ✔️ |
 | [WorldEdit](https://modrinth.com/plugin/worldedit) | In-Game map editor. | ✔️ |
-| [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui) | Various improvements for WorldEdit. | ❌️ |
+| [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui) | Various improvements for WorldEdit. | ✔️ |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | Displays a minimap with entity radar and waypoints. **THIS MOD MIGHT GET YOU BANNED FROM SERVERS!!!** | ✔️ |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | Adds a full screen map that shows you waypoints and what you explored! **THIS MOD MIGHT GET YOU BANNED FROM SERVERS!!!** | ✔️ |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Allows you to infinitely zoom. | ✔️ |

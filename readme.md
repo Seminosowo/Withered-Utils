@@ -3,7 +3,7 @@ Welcome to Withered Utils Github! Here, you can request suggestions and issues o
 
 # Table of contents
 
-1. [Mod List](https://github.com/Seminosowo/Withered-Utils/blob/3f21a7f1be2e231fd9016376f3fc5566ffe91f05/Modlist.md)
+1. [Mod List](https://github.com/Seminosowo/Withered-Utils/blob/5486eca17fb1befa94d66e6770cd4ded7990f597/Modlist.md)
 2. [Resources Pack List](https://github.com/Seminosowo/Withered-Utils/blob/5a7325b6a71c245a00d8feda0bc12eea219ba2f2/Resource%20pack%20list.md)
 3. [Keybinds List](https://github.com/Seminosowo/Withered-Utils/blob/641b4675f1cfd68d10034e52667dd2a1840978d1/keybinds.md)
 4. [Modpack Icon](https://github.com/Seminosowo/Withered-Utils/blob/3eea1ab21ee93642856611c7c4b5af8bcf184258/Modpack%20Icon.png)

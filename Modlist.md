@@ -60,6 +60,7 @@
 | [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights) | Adds Dynamic Lights. |
 | [MiniHUD](https://modrinth.com/mod/minihud) | Various Hud Tweaks. |
 | [Map Distance Fix](https://modrinth.com/mod/map-distance-fix) | Shows your map locator regardless of where you are. |
+| [Bedrock Miner](https://modrinth.com/mod/next-fabric-bedrock-miner/) | Allows you to mine bedrock using micros. **THIS MOD MIGHT GET YOU BANNED FROM SERVERS** |
 
 # Fixes
 
